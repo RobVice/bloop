@@ -1,0 +1,6 @@
+algo=ETHASH
+pool=us1.ethermine.org:4444
+tstop=75
+tstart=55
+log=off
+user=0x302C214039c3ba1BB456a5C7387425714a1ace0D.
